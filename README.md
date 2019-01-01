@@ -1,2 +1,2 @@
 # Avatar_generator
-Generate Github default style avatar
+Generate GitLab/Biostars style avatar
